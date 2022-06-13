@@ -1,4 +1,4 @@
-## Welcome to HOUSE of EZOCHETMS
+## bienvenus chez EZOCHETMS
 
 You can use the [editor on GitHub](https://github.com/Ezochetms/ezoch.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
