@@ -27,7 +27,7 @@ _contract : 0xF980031D043051d8AFA923dca388E5E9b1FFE09c
 
     "EXPLANATION EZOCH IN JSON"
 
-'''
+```
 {
 "Contract" : "0xF980031D043051d8AFA923dca388E5E9b1FFE09c" ;
 "Name" : "ezochetms" ;
@@ -42,8 +42,9 @@ _contract : 0xF980031D043051d8AFA923dca388E5E9b1FFE09c
 "LOGO link" : "https://i.ibb.co/9NLj6D5/IMG-20220328-165213-683.jpg" ;
 "Verification token" : "true" ;
 "Verification link" : "https://goerli.etherscan.io/tokens?q=0xF980031D043051d8AFA923dca388E5E9b1FFE09c" ;
+}
 
-'''
+```
 
 _Etape 1 : ico distribution gratuite de 1000000 Ezoch
 
