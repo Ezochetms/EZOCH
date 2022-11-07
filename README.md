@@ -63,7 +63,7 @@ _contract : `0x0d78270c928958FdCb83E74EF53633Fa1A183336`
 "Contract" : "0x0d78270c928958FdCb83E74EF53633Fa1A183336" ;
 "Name" : "ezochetms2" ;
 "Symbole" : "EZOCH" ;
-"Supply" : "1000000000" ;
+"Supply" : "100000000000000" ;
 "Décimales" : "1" ;
 "Price" : "0.0032ethes" ;
 "Propriétaire" : "ezochetms@gmail.com" ;
@@ -81,6 +81,101 @@ _contract : `0x0d78270c928958FdCb83E74EF53633Fa1A183336`
 
 ````
 
+## Token 3 : Centenaire/CENT
+![-5971819311607691164_120](https://user-images.githubusercontent.com/104262940/200391825-fd148209-b184-4cf8-81de-6fd262698742.jpg)
+
+
+Nom : Centenaire
+
+Symbol : CENT
+
+Supply : 1000000000000000000
+
+Prix : 0.005 ETH
+
+Décimales : 4
+
+Contract : `0x2A469D725a14A13ad2112914e7c394995e3c1BFd`
+
+Network : goerli test network
+
+Wallet : Metamask 
+
+Prochain : cctip.io & thundercore
+
+Type : powerfull ec20 token
+
+[Token vérification](https://goerli.etherscan.io/tokens?q=0x2A469D725a14A13ad2112914e7c394995e3c1BFd)
+
+Json
+```
+"Contract" : "0x2A469D725a14A13ad2112914e7c394995e3c1BFd" ;
+"Name" : "Centenaire" ;
+"Symbole" : "CENT" ;
+"Supply" : "100000000000000" ;
+"Décimales" : "4" ;
+"Price" : "0.005ethes" ;
+"Propriétaire" : "ezochetms@gmail.com" ;
+"LOGO link" : "https://i.ibb.co/BykDDd0/5971819311607691164-120.jpg" ;
+"Verification token" : "true" ;
+"Verification link" : "https://goerli.etherscan.io/tokens?q=0x2A469D725a14A13ad2112914e7c394995e3c1BFd" ;
+
+//fonction
+{
+"Interface ERC-165" :"OUI" ;
+"Assistance ERC-721Assistance ERC-721" : "NON" ;
+"Prise en charge des métadonnées ERC-721Prise en charge des métadonnées ERC-721" : "NON" ;
+"Prise en charge énumérable ERC-721Prise en charge énumérable ERC-721" : "NON" ;
+"Implémente ERC-721" : "NON"
+}
+```
+
+## TETHER USDT stablecoin
+![tether-usdt-logo](https://user-images.githubusercontent.com/104262940/200396152-2792602d-83be-4d60-9b1d-c72b37e8a43f.png)
+
+Nom : Tether
+
+Symbol : USDT
+
+Supply : 1000000000000000000
+
+Prix : 1 $
+
+Décimales : 18
+
+Contract : `0x2A469D725a14A13ad2112914e7c394995e3c1BFd`
+
+Network : goerli test network
+
+Only for test network
+
+Wallet : Metamask 
+
+
+Type : stablecoin erc20 token
+
+
+Json
+```
+
+"Contract" : "0x2A469D725a14A13ad2112914e7c394995e3c1BFd" ;
+"Name" : "Tether" ;
+"Symbole" : "USDT" ;
+"Supply" : "100000000000000" ;
+"Décimales" : "18" ;
+"Price" : "1$" ;
+"Propriétaire" : "ezochetms@gmail.com" ;
+"LOGO link" : "https://i.ibb.co/BykDDd0/5971819311607691164-120.jpg" ;
+
+//fonction
+{
+"Interface ERC-165" :"OUI" ;
+"Assistance ERC-721Assistance ERC-721" : "NON" ;
+"Prise en charge des métadonnées ERC-721Prise en charge des métadonnées ERC-721" : "NON" ;
+"Prise en charge énumérable ERC-721Prise en charge énumérable ERC-721" : "NON" ;
+"Implémente ERC-721" : "NON"
+}
+```
 
 
 _ETAPE 1 : ico distribution gratuite de 1000000 Ezoch
