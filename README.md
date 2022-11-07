@@ -25,7 +25,7 @@ _thundercore
 
       *Existe en deux versions Erc20*
 
-### sample erc20 
+### 1: sample erc20 
        
 _contract : `0xF980031D043051d8AFA923dca388E5E9b1FFE09c`
 
@@ -52,7 +52,7 @@ _contract : `0xF980031D043051d8AFA923dca388E5E9b1FFE09c`
 
 ```
 
-#### Powerfull erc20
+#### 2 : Powerfull erc20
 
 _contract : `0x0d78270c928958FdCb83E74EF53633Fa1A183336`
 
@@ -130,7 +130,7 @@ Json
 }
 ```
 
-## TETHER USDT stablecoin
+## jeton4 : TETHER USDT stablecoin
 ![tether-usdt-logo](https://user-images.githubusercontent.com/104262940/200396152-2792602d-83be-4d60-9b1d-c72b37e8a43f.png)
 
 Nom : Tether
@@ -141,9 +141,9 @@ Supply : 1000000000000000000
 
 Prix : 1 $
 
-Décimales : 18
+Décimales : 6
 
-Contract : `0x2A469D725a14A13ad2112914e7c394995e3c1BFd`
+Contract : `0x86110c296D6b5d0A5C714dc80548d29351B0105b`
 
 Network : goerli test network
 
@@ -158,14 +158,14 @@ Type : stablecoin erc20 token
 Json
 ```
 
-"Contract" : "0x2A469D725a14A13ad2112914e7c394995e3c1BFd" ;
+"Contract" : "0x86110c296D6b5d0A5C714dc80548d29351B0105b" ;
 "Name" : "Tether" ;
 "Symbole" : "USDT" ;
 "Supply" : "100000000000000" ;
-"Décimales" : "18" ;
+"Décimales" : "6" ;
 "Price" : "1$" ;
 "Propriétaire" : "ezochetms@gmail.com" ;
-"LOGO link" : "https://i.ibb.co/BykDDd0/5971819311607691164-120.jpg" ;
+"LOGO link" : "https://www.linkpicture.com/q/tether-usdt-logo.png" ;
 
 //fonction
 {
