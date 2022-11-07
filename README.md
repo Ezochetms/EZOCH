@@ -1,8 +1,8 @@
 # welcome to ezoch
 
 ## EZOCHETMS/EZOCH
-![IMG_20220328_165213_683.jpg]
 
+![IMG_20220328_165213_683](https://user-images.githubusercontent.com/104262940/200367971-658068fc-a80d-4960-8e69-1815b7d7c506.jpg)
 Nom: EZOCHETMS
 
 Symbol : EZOCH
