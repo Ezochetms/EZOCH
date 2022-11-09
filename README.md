@@ -6,9 +6,10 @@ Avoir Metamask pour le stockage
 ## Token 1 : EZOCHETMS/EZOCH
 
 ![IMG_20220328_165213_683](https://user-images.githubusercontent.com/104262940/200367971-658068fc-a80d-4960-8e69-1815b7d7c506.jpg)
-Existe en deux version erc20 
 
-Première version sample erc20 :
+      Existe en deux version erc20 
+
+*Première version sample erc20*
 
 Nom : Ezochetms
 
@@ -50,7 +51,7 @@ _contract : `0xF980031D043051d8AFA923dca388E5E9b1FFE09c`
 
 ```
 
-Version 2 : Powerfull erc20
+*Version 2 : Powerfull erc20*
 
 Nom : ezochetms2
 
