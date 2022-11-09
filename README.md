@@ -12,26 +12,15 @@ Avoir Metamask pour le stockage
 *Première version sample erc20*
 
 Nom : Ezochetms
-
 Symbol : EZOCH
-
 Prix : 1 ezoch = 0.0032 ETH
-
 Supply : 1000000000
-
-Network :goerli test network
-
-Wallet: Metamask
-
-Futur wallet after merge mainnet
-
- _cctip.io
-
-_thundercore
        
 _contract : `0xF980031D043051d8AFA923dca388E5E9b1FFE09c`
 
    [Token vérification](https://goerli.etherscan.io/tokens?q=0xF980031D043051d8AFA923dca388E5E9b1FFE09c)  
+
+0xF980031D043051d8AFA923dca388E5E9b1FFE09c.js
 ```
 "Contract" : "0xF980031D043051d8AFA923dca388E5E9b1FFE09c" ;
 "Name" : "ezochetms" ;
@@ -54,13 +43,12 @@ _contract : `0xF980031D043051d8AFA923dca388E5E9b1FFE09c`
 *Version 2 : Powerfull erc20*
 
 Nom : ezochetms2
-
 symbol : EZOCH 
-
 Contract : `0x0d78270c928958FdCb83E74EF53633Fa1A183336`
 
-  [Token verification](https://goerli.etherscan.io/tokens?q=0x0d78270c928958FdCb83E74EF53633Fa1A183336) 
-       
+  [Token vérification](https://goerli.etherscan.io/tokens?q=0x0d78270c928958FdCb83E74EF53633Fa1A183336) 
+
+0x0d78270c928958FdCb83E74EF53633Fa1A183336.js
 ```
 "Contract" : "0x0d78270c928958FdCb83E74EF53633Fa1A183336" ;
 "Name" : "ezochetms2" ;
@@ -89,28 +77,19 @@ Contract : `0x0d78270c928958FdCb83E74EF53633Fa1A183336`
 
 
 Nom : Centenaire
-
 Symbol : CENT
-
 Supply : 1000000000000000000
-
 Prix : 0.005 ETH
-
 Décimales : 4
-
 Contract : `0x2A469D725a14A13ad2112914e7c394995e3c1BFd`
-
 Network : goerli test network
-
 Wallet : Metamask 
-
 Prochain : cctip.io & thundercore
-
 Type : powerfull ec20 token
 
-[Token vérification](https://goerli.etherscan.io/tokens?q=0x2A469D725a14A13ad2112914e7c394995e3c1BFd)
+[Click pour la vérification](https://goerli.etherscan.io/tokens?q=0x2A469D725a14A13ad2112914e7c394995e3c1BFd)
 
-Json
+0x2A469D725a14A13ad2112914e7c394995e3c1BFd.js
 ```
 "Contract" : "0x2A469D725a14A13ad2112914e7c394995e3c1BFd" ;
 "Name" : "Centenaire" ;
@@ -137,35 +116,23 @@ Json
 ![tether-usdt-logo](https://user-images.githubusercontent.com/104262940/200396152-2792602d-83be-4d60-9b1d-c72b37e8a43f.png)
 
 Nom : Tether
-
 Symbol : USDT
-
 Supply : 1000000000000000000
-
 Prix : 1 $
-
 Décimales : 6
-
 Contract : `0x86110c296D6b5d0A5C714dc80548d29351B0105b`
-
 Network : goerli test network
-
-Only for test network
-
-Wallet : Metamask 
-
-
 Type : stablecoin erc20 token
 
 
-Json
+0x86110c296D6b5d0A5C714dc80548d29351B0105b.js
 ```
-
 "Contract" : "0x86110c296D6b5d0A5C714dc80548d29351B0105b" ;
 "Name" : "Tether" ;
 "Symbole" : "USDT" ;
 "Supply" : "100000000000000" ;
 "Décimales" : "6" ;
+"Type" : "stablecoin"
 "Price" : "1$" ;
 "Propriétaire" : "ezochetms@gmail.com" ;
 "LOGO link" : "https://www.linkpicture.com/q/tether-usdt-logo.png" ;
@@ -181,11 +148,14 @@ Json
 ```
 
 
-_ETAPE 1 : ico distribution gratuite de 1000000 Ezoch
-
-_ETAPE 2 : migration vers la mainnet ethereum
+_1 distribution gratuite de 1000000 EZOCH 
+_2 distribution gratuite de 1000000 CENT 
+_3 distribution gratuite de 1000000 ezochetms2
+_4 merge sur mainnet
+_5 listing sur uniwap et cctip
+_6 Aprovisionner les échanges USDT/EZOCH & USDT/CENT
  
-              *SOCIAL*
+              Nous suivre
 
 _[telegram group](https://t.me/ezoch_ETHerc20)
 
@@ -195,6 +165,7 @@ _[canal](https://t.me/ezochmarket)
 
 _[gagner par parrainage](https://t.me/Ezoch_bot?start=r09372775470)
 
-**rejoin notre [groupe](https://t.me/ezoch_ETHerc20) sur telegramme pour gagner 1$ ezoch**
+[Nous rejoindre pour gagner 1$ ezoch](https://t.me/ezoch_ETHerc20)
 
-       # we make money using money
+           WE MAKE MONEY USING MONEY
+
