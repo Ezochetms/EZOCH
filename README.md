@@ -1,11 +1,16 @@
-# Token list
+# ezoch token list
 
-Tous nos token sont actuellement disponible sur le reseau de test goerli
+Tous nos token sont actuellement disponible sur le reseau de test goerli 
+Avoir Metamask pour le stockage
 
 ## Token 1 : EZOCHETMS/EZOCH
 
 ![IMG_20220328_165213_683](https://user-images.githubusercontent.com/104262940/200367971-658068fc-a80d-4960-8e69-1815b7d7c506.jpg)
-Nom: EZOCHETMS
+Existe en deux version erc20 
+
+Première version sample erc20 :
+
+Nom : Ezochetms
 
 Symbol : EZOCH
 
@@ -22,17 +27,10 @@ Futur wallet after merge mainnet
  _cctip.io
 
 _thundercore
-
-      *Existe en deux versions Erc20*
-
-### 1: sample erc20 
        
 _contract : `0xF980031D043051d8AFA923dca388E5E9b1FFE09c`
 
-   [Token vérification](https://goerli.etherscan.io/tokens?q=0xF980031D043051d8AFA923dca388E5E9b1FFE09c)
-
-
-          In JSON👇
+   [Token vérification](https://goerli.etherscan.io/tokens?q=0xF980031D043051d8AFA923dca388E5E9b1FFE09c)  
 ```
 "Contract" : "0xF980031D043051d8AFA923dca388E5E9b1FFE09c" ;
 "Name" : "ezochetms" ;
@@ -52,13 +50,16 @@ _contract : `0xF980031D043051d8AFA923dca388E5E9b1FFE09c`
 
 ```
 
-#### 2 : Powerfull erc20
+Version 2 : Powerfull erc20
 
-_contract : `0x0d78270c928958FdCb83E74EF53633Fa1A183336`
+Nom : ezochetms2
+
+symbol : EZOCH 
+
+Contract : `0x0d78270c928958FdCb83E74EF53633Fa1A183336`
 
   [Token verification](https://goerli.etherscan.io/tokens?q=0x0d78270c928958FdCb83E74EF53633Fa1A183336) 
        
- Json
 ```
 "Contract" : "0x0d78270c928958FdCb83E74EF53633Fa1A183336" ;
 "Name" : "ezochetms2" ;
@@ -66,6 +67,7 @@ _contract : `0x0d78270c928958FdCb83E74EF53633Fa1A183336`
 "Supply" : "100000000000000" ;
 "Décimales" : "1" ;
 "Price" : "0.0032ethes" ;
+"Network" : "goerli" ;
 "Propriétaire" : "ezochetms@gmail.com" ;
 "LOGO link" : "https://i.ibb.co/9NLj6D5/IMG-20220328-165213-683.jpg" ;
 "Verification token" : "true" ;
