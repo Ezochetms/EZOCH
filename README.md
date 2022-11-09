@@ -158,6 +158,8 @@ Contract : `0x86110c296D6b5d0A5C714dc80548d29351B0105b`
 }
 ```
 ## token5: Ethereum de EZOCHETMS
+![625723_1](https://user-images.githubusercontent.com/104262940/200846867-5bdef861-e4ff-42b2-bf94-9141672945a8.jpg)
+
 
 Nom: ethereum
 
@@ -191,7 +193,7 @@ Contract: `0xdFB6ED3237ee9A3777cD4A46E0C14D7F798ed3fF`
 "Network" : "goerli test network uniquement" ;
 "Type" : "sample erc20 to" ;
 "Propriétaire" : "ezochetms@gmail.com" ;
-"Logo" : "
+"Logo" : "https://ibb.co/bHbztGL"
 "Verification link" : "https://goerli.etherscan.io/tokens?q=0xdFB6ED3237ee9A3777cD4A46E0C14D7F798ed3fF" ;
 //fonncton
 {
