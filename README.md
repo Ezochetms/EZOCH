@@ -43,7 +43,7 @@ Contract : `0xF980031D043051d8AFA923dca388E5E9b1FFE09c`
 
 ```
 
-*VERSION : POWERFULL erc20*
+##token2 EZOCH VERSION POWERFULL erc20
 
 Nom : ezochetms2
 
@@ -157,7 +157,51 @@ Contract : `0x86110c296D6b5d0A5C714dc80548d29351B0105b`
 "Implémente ERC-721" : "NON"
 }
 ```
+## token5: Ethereum de EZOCHETMS
 
+Nom: ethereum
+
+symbol: eth
+
+decimal: 18
+
+suplly: 21000000
+
+prix: 1eth
+
+Network: goerli test network uniquement
+
+Type: sample erc20 token
+
+Créé en respect de création de jeton original erc20
+
+Contract: `0xdFB6ED3237ee9A3777cD4A46E0C14D7F798ed3fF`
+
+[Vérifier ici](https://goerli.etherscan.io/tokens?q=0xdFB6ED3237ee9A3777cD4A46E0C14D7F798ed3fF)
+
+
+0xdFB6ED3237ee9A3777cD4A46E0C14D7F798ed3fF.js
+```
+"Contract" : "0xdFB6ED3237ee9A3777cD4A46E0C14D7F798ed3fF" ;
+"Nom": "ethereum" ;
+"Symbol": "eth" ;
+"Decimal": 18" ;
+"Suplly" : 21000000" ;
+"Prix" : "1eth" ;
+"Network" : "goerli test network uniquement" ;
+"Type" : "sample erc20 to" ;
+"Propriétaire" : "ezochetms@gmail.com" ;
+"Logo" : "
+"Verification link" : "https://goerli.etherscan.io/tokens?q=0xdFB6ED3237ee9A3777cD4A46E0C14D7F798ed3fF" ;
+//fonncton
+{
+"Interface ERC-165" : "OUI" ;
+"Assistance ERC-721Assistance ERC-721" : "NON" ;
+"Prise en charge des métadonnées ERC-721Prise en charge des métadonnées ERC-721" : "NON" ;
+"Prise en charge énumérable ERC-721Prise en charge énumérable ERC-721" : "NON" ;
+Implémente ERC-721 : "NON" ;
+}
+```
 
 _1 distribution gratuite de 1000000 EZOCH
  
@@ -183,5 +227,5 @@ _[gagner par parrainage](https://t.me/Ezoch_bot?start=r09372775470)
 
 [Nous rejoindre pour gagner 1$ ezoch](https://t.me/ezoch_ETHerc20)
 
-           WE MAKE MONEY USING MONEY
+      ❤WE MAKE MONEY USING MONEY
 
