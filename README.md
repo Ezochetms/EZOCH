@@ -9,14 +9,17 @@ Avoir Metamask pour le stockage
 
       Existe en deux version erc20 
 
-*Première version sample erc20*
+*VERSION SAMPLE erc20*
 
 Nom : Ezochetms
+
 Symbol : EZOCH
+
 Prix : 1 ezoch = 0.0032 ETH
+
 Supply : 1000000000
-       
-_contract : `0xF980031D043051d8AFA923dca388E5E9b1FFE09c`
+     
+Contract : `0xF980031D043051d8AFA923dca388E5E9b1FFE09c`
 
    [Token vérification](https://goerli.etherscan.io/tokens?q=0xF980031D043051d8AFA923dca388E5E9b1FFE09c)  
 
@@ -40,10 +43,12 @@ _contract : `0xF980031D043051d8AFA923dca388E5E9b1FFE09c`
 
 ```
 
-*Version 2 : Powerfull erc20*
+*VERSION : POWERFULL erc20*
 
 Nom : ezochetms2
+
 symbol : EZOCH 
+
 Contract : `0x0d78270c928958FdCb83E74EF53633Fa1A183336`
 
   [Token vérification](https://goerli.etherscan.io/tokens?q=0x0d78270c928958FdCb83E74EF53633Fa1A183336) 
@@ -77,14 +82,17 @@ Contract : `0x0d78270c928958FdCb83E74EF53633Fa1A183336`
 
 
 Nom : Centenaire
+
 Symbol : CENT
+
 Supply : 1000000000000000000
+
 Prix : 0.005 ETH
+
 Décimales : 4
+
 Contract : `0x2A469D725a14A13ad2112914e7c394995e3c1BFd`
-Network : goerli test network
-Wallet : Metamask 
-Prochain : cctip.io & thundercore
+
 Type : powerfull ec20 token
 
 [Click pour la vérification](https://goerli.etherscan.io/tokens?q=0x2A469D725a14A13ad2112914e7c394995e3c1BFd)
@@ -116,13 +124,16 @@ Type : powerfull ec20 token
 ![tether-usdt-logo](https://user-images.githubusercontent.com/104262940/200396152-2792602d-83be-4d60-9b1d-c72b37e8a43f.png)
 
 Nom : Tether
+
 Symbol : USDT
+
 Supply : 1000000000000000000
+
 Prix : 1 $
+
 Décimales : 6
+
 Contract : `0x86110c296D6b5d0A5C714dc80548d29351B0105b`
-Network : goerli test network
-Type : stablecoin erc20 token
 
 
 0x86110c296D6b5d0A5C714dc80548d29351B0105b.js
@@ -148,11 +159,16 @@ Type : stablecoin erc20 token
 ```
 
 
-_1 distribution gratuite de 1000000 EZOCH 
-_2 distribution gratuite de 1000000 CENT 
+_1 distribution gratuite de 1000000 EZOCH
+ 
+_2 distribution gratuite de 1000000 CENT
+ 
 _3 distribution gratuite de 1000000 ezochetms2
+
 _4 merge sur mainnet
+
 _5 listing sur uniwap et cctip
+
 _6 Aprovisionner les échanges USDT/EZOCH & USDT/CENT
  
               Nous suivre
