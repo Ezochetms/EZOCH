@@ -43,7 +43,7 @@ Contract : `0xF980031D043051d8AFA923dca388E5E9b1FFE09c`
 
 ```
 
-##token2 EZOCH VERSION POWERFULL erc20
+## Token2 EZOCH VERSION POWERFULL erc20
 
 Nom : ezochetms2
 
