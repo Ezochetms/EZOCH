@@ -225,6 +225,8 @@ _[blog annonce](https://www.publish0x.com/ezoch/ezochetms-tokenerc20-xqenkng/?a=
 
 _[canal](https://t.me/ezochmarket)
 
+_[publication twitter](https://twitter.com/MassNsona/status/1587018618222641153?s=20&t=gW6P4Th_oJp2xYcmQbzTxA)
+
 _[gagner par parrainage](https://t.me/Ezoch_bot?start=r09372775470)
 
 _[prochain portefeuille](https://mining.thundercore.com/referCode?referralCode=XVVWJK)
